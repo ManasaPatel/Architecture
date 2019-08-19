@@ -1,11 +1,3 @@
----
-name: PR template
-about: Pull Request template
-title: ''
-labels: ''
-assignees: ''
-
----
 
 ### Issue
 Architecture issue link
